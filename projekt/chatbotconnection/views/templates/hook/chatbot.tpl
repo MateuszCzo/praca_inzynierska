@@ -1,0 +1,2 @@
+<script src="https://cdn.botpress.cloud/webchat/v0/inject.js" type="text/javascript"></script>
+<script src="https://mediafiles.botpress.cloud/{$botPressId}/webchat/config.js" defer="defer" type="text/javascript"></script>
